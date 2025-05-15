@@ -61,11 +61,6 @@ This project involves analyzing real-time network traffic using Python scripts t
 
 Feel free to fork the project and submit pull requests for improvements or bug fixes.
 
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-## Contact
 
 
 Project Link: [https://github.com/reyy2710/traffic-analysis](https://github.com/reyy2710/traffic-analysis)
